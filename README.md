@@ -20,7 +20,7 @@ The state_machine shifts the three states namely :
 
 ## State diagram
 The original was supposed to be like this
-https://github.com/raghuveer-sid/images/blob/main/Screenshot%20from%202021-02-25%2023-11-04.png
+![] https://github.com/raghuveer-sid/images/blob/main/Screenshot%20from%202021-02-25%2023-11-04.png
 
 
 **sleep** : In sleep state the robot dog goes to its home an sleeps after certain time it goes to the normal state
