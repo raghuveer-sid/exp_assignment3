@@ -22,6 +22,11 @@ The state_machine shifts the three states namely :
 The original was supposed to be like this
 ![Screenshot from 2021-02-25 23-11-04](https://user-images.githubusercontent.com/62798224/109227183-34e85680-77c0-11eb-91d2-b523de01c7b8.png)
 
+I managed to do this
+
+![Screenshot from 2021-02-25 23-11-16](https://user-images.githubusercontent.com/62798224/109227251-4f223480-77c0-11eb-82d7-504fcbcffdaf.png)
+
+
 
 
 **sleep** : In sleep state the robot dog goes to its home an sleeps after certain time it goes to the normal state
